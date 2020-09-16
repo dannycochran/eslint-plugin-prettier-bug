@@ -9,7 +9,7 @@ yarn
 or 
 
 ```
-npm o
+npm i
 ```
 
 2. Run lint from `actualApp`
