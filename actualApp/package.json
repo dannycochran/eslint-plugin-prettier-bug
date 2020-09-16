@@ -1,0 +1,12 @@
+{
+  "name": "eslint-bug-repro",
+  "scripts": {
+    "lint": "eslint app.js --no-error-on-unmatched-pattern",
+    "lint:fix": "eslint app.js --fix --no-error-on-unmatched-pattern"
+  },
+  "devDependencies": {
+    "eslint": "7.9.0",
+    "eslint-plugin-prettier": "^.1.4",
+    "prettier": "2.1.2"
+  }
+}
